@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: 'Tangerine', cursive;
-  font-size: 48px;
+  font-size: 64px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -40,4 +40,8 @@ blockquote::before {
 
 blockquote cite {
   text-indent: 0;
+}
+
+.panel-default {
+  margin-bottom: 0;
 }
